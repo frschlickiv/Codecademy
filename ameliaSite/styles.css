@@ -1,0 +1,31 @@
+.box {
+  border: white;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+div {
+  width: 320px;
+  padding: 10px;
+  margin: 0;
+}
+
+.brand1 {
+  background-color: #5680e9;
+}
+
+.brand2 {
+  background-color: #84ceeb;
+}
+
+.brand3 {
+  background-color: #5ab9ea;
+}
+
+.brand4 {
+  background-color: #c1c8e4;
+}
+
+.brand5 {
+  background-color: #8860d0;
+}

@@ -1,0 +1,36 @@
+*{
+    font-family: Verdana;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+header{
+    margin-bottom: 10px;
+}
+
+.download{
+    color: aquamarine;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.title {
+    color: cornsilk;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: gray;
+
+}
+
+.copyright{
+    text-align: right;
+    color: grey;
+}
+
+
+ 
